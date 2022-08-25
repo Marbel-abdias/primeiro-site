@@ -1,2 +1,2 @@
 # primeiro-site
-este site é esperimental
+este site é experimental
