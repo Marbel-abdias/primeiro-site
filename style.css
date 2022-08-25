@@ -1,0 +1,53 @@
+.container{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    padding: 30px;
+    padding-bottom: 20px;
+}
+
+.container:hover{
+    color: rgb(255, 0, 0);
+    transition: 1s;
+    background-color: black;
+}
+
+body{
+    padding-top: 0;
+    background-color: black;
+    padding: 0px 0px 00px 0px;
+}
+
+.mar:hover{
+  color: red;
+  transition: 1s;
+}
+.mar{
+    margin-top: 20px;
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+}
+.box{
+    margin-top: 20px;
+    font-size: 40px;
+    text-align: center;
+    padding: 30px;
+}
+.box:hover{
+    color: red;
+    transition: 1s;
+}
+
+a{ position: absolute;
+    text-decoration: none;
+    text-align: left;
+    font-size: 40px;
+    color: black;
+    margin-top: 2000px;
+}
+
+a:hover{
+    color: red;
+    transition: 1s;
+}
